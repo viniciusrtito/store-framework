@@ -1,5 +1,5 @@
 {
   "store.home": {
-    "blocks": ["store.product"]
+    "blocks": ["store.search"]
   }
 }
