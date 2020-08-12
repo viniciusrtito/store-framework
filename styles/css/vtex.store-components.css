@@ -1,0 +1,22 @@
+.infoCardContainer {
+  max-width: 1260px;
+  margin: 0 auto;
+  padding: 0;
+}
+
+.infoCardHeadline {
+  font-weight: bold;
+  color: black;
+}
+
+.infoCardCallActionContainer :global(.vtex-button):hover {
+  background-color: white;
+}
+
+.infoCardContainer--vintage {
+  background-color: #edcfd1;
+}
+
+.infoCardContainer--metal {
+  background-color: #e1e1e1;
+}
