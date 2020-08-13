@@ -9,12 +9,7 @@
       "orientation": "horizontal"
     }
   },
-  "menu-item#major-appliances": {
-    "blocks": ["vtex.menu@2.x:submenu#major"]
-  },
-  "menu-item#small-appliances": {
-    "blocks": ["vtex.menu@2.x:submenu#small"]
-  },
+
   "menu-item#electronics": {
     "blocks": ["vtex.menu@2.x:submenu#electronics"]
   },

@@ -6,8 +6,10 @@
       "itemProps": {
         "text": "Major Aplliances"
       }
-    }
+    },
+    "blocks": ["vtex.menu@2.x:submenu#major"]
   },
+
   "menu-item#small-appliances": {
     "props": {
       "type": "category",
@@ -16,7 +18,8 @@
         "categoryId": 2,
         "text": "Small Appliances"
       }
-    }
+    },
+    "blocks": ["vtex.menu@2.x:submenu#small"]
   },
   "menu-item#electronics": {
     "props": {
